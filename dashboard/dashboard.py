@@ -47,7 +47,7 @@ def create_rfm_df(df):
 
 ##importdata
 
-all_df = pd.read_csv("all_data.csv")
+all_df = pd.read_csv("dashboard/all_data.csv")
 
 ##transformdatetime
 
